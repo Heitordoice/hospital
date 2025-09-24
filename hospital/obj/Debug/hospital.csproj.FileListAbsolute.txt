@@ -1,0 +1,7 @@
+C:\Users\lab3121\source\repos\hospital\hospital\bin\Debug\hospital.exe.config
+C:\Users\lab3121\source\repos\hospital\hospital\bin\Debug\hospital.exe
+C:\Users\lab3121\source\repos\hospital\hospital\bin\Debug\hospital.pdb
+C:\Users\lab3121\source\repos\hospital\hospital\obj\Debug\hospital.csproj.AssemblyReference.cache
+C:\Users\lab3121\source\repos\hospital\hospital\obj\Debug\hospital.csproj.CoreCompileInputs.cache
+C:\Users\lab3121\source\repos\hospital\hospital\obj\Debug\hospital.exe
+C:\Users\lab3121\source\repos\hospital\hospital\obj\Debug\hospital.pdb

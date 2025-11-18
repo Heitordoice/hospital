@@ -8,25 +8,22 @@ namespace hospital
 {
     class Paciente
     {
-        
-        public string nome;
-        public int idade;
-        public bool preferencial;
+        public string Nome;
+        public int Idade;
+        public bool Preferencial;
 
         public string Exibir()
         {
-            if (preferencial)
+            if (Preferencial)
             {
-                return nome + " - " + idade + " anos - Preferencial";
+                return Nome + " - " + Idade + " anos - Preferencial";
             }
             else
             {
-                return nome + " - " + idade + " anos - Comum";
+                return Nome + " - " + Idade + " anos - Comum";
             }
         }
-
-
-
     }
 }
+
 
